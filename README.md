@@ -1,4 +1,4 @@
-# Golpe Franco
+# Futbol Gonza
 
 Videojuego de fútbol 3D original, hecho desde cero con HTML, CSS y JavaScript
 sobre **WebGL2** (motor de render propio, sin dependencias en tiempo de
